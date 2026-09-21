@@ -3,3 +3,5 @@
 Five-page static website for Senor Suiting.
 
 Pages: Home, About Us, Privacy Policy, Terms & Conditions, Contact Us.
+
+Deployment: GitHub Pages via GitHub Actions.
